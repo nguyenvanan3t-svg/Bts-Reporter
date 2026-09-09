@@ -78,7 +78,8 @@
       "HUAWEI DBS5900 (RRU5920w)",
       "ERICSSON RBS 6631 (Radio 4490)",
       "ERICSSON RBS 6601 (Radio 4490)",
-      "ERICSSON RBS 6631 (Radio 4471HP)"
+      "ERICSSON RBS 6631 (Radio 4471HP)",
+      "ERICSSON AIR 3265"
     ],
     "Anten": [
       "4P-4M-A2",
@@ -263,7 +264,8 @@
       "AAU5636m",
       "AAU5356",
       "D04X-4x1710-2170-4x65-4x17.5i-4xM-R",
-      "ODM4-065R18J02-Q-32"
+      "ODM4-065R18J02-Q-32",
+      "ERICSSON AIR 3265"
     ],
     "VT": [
       "Khu đất trống",
