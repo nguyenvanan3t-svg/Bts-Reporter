@@ -79,7 +79,9 @@
       "ERICSSON RBS 6631 (Radio 4490)",
       "ERICSSON RBS 6601 (Radio 4490)",
       "ERICSSON RBS 6631 (Radio 4471HP)",
-      "ERICSSON AIR 3265"
+      "ERICSSON AIR 3265",
+      "ZTE ZXSDR B8200 (ZXSDR R8881)",
+      "ZTE ZXSDR B8200 (ZXSDR R8840)"
     ],
     "Anten": [
       "4P-4M-A2",
