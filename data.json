@@ -81,7 +81,8 @@
       "ERICSSON RBS 6631 (Radio 4471HP)",
       "ERICSSON AIR 3265",
       "ZTE ZXSDR B8200 (ZXSDR R8881)",
-      "ZTE ZXSDR B8200 (ZXSDR R8840)"
+      "ZTE ZXSDR B8200 (ZXSDR R8840)",
+      "ERICSSON AIR 3219"
     ],
     "Anten": [
       "4P-4M-A2",
@@ -268,7 +269,8 @@
       "D04X-4x1710-2170-4x65-4x17.5i-4xM-R",
       "ODM4-065R18J02-Q-32",
       "AIR 3265 B41",
-      "ODDM2-032R19J02-Q"
+      "ODDM2-032R19J02-Q",
+      "AIR 3219 B77U"
     ],
     "VT": [
       "Khu đất trống",
